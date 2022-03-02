@@ -5,7 +5,7 @@ library(ggplot2)
 # in agriculture, manufacturing, and professional services
 
 # Read in sample data
-map48_sample_data <- readr::read_csv("data/map48_sample_data.csv")
+map48_sample_data <- readr::read_csv("data/population_sample_data.csv")
 
 # Select the columns we want:
 #
