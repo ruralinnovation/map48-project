@@ -1,0 +1,7 @@
+.DS_Store
+
+# R Environment Variables
+.Renviron
+
+# RStudio files
+.Rproj.user/
